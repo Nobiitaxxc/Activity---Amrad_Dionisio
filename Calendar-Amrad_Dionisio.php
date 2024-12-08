@@ -28,7 +28,7 @@ switch ($today){
         break;
 }
 
-echo "Date to day: $today ";
+echo "$today ";
 echo "$currentDate";
 
 ?>
